@@ -1,0 +1,6 @@
+framework module Pods_PepRally {
+  umbrella header "Pods-PepRally-umbrella.h"
+
+  export *
+  module * { export * }
+}
