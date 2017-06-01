@@ -14,5 +14,6 @@ target 'PepRally' do
 
   pod 'FacebookCore'
   pod 'FacebookLogin'
+  pod 'FacebookShare'
 
 end

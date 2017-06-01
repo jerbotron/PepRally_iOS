@@ -18,6 +18,7 @@ class HomeViewController: UITableViewController {
 
         // Uncomment the following line to display an Edit button in the navigation bar for this view controller.
         // self.navigationItem.rightBarButtonItem = self.editButtonItem()
+        print("got to home controller")
     }
 
     override func didReceiveMemoryWarning() {
